@@ -1,10 +1,10 @@
-package com.oddle.app.weather;
+package com.weather;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WeatherApplicationTests {
+class WeatherSummaryApplicationTests {
 
 	@Test
 	void contextLoads() {
